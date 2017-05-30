@@ -8,10 +8,10 @@
         id        = "com.interflywebsolutions.iplayer"
         version   = "1.0">
 
-    <name>Meu Distribuidor</name>
+    <name>Caminhões Brasil</name>
 
     <description>
-        Aplicativo da Loja Virtual - Meu distribuidor.
+        Aplicativo - Telemetria
     </description>
 
     <author href="http://www.perfiljt.com.br" email="jtiggerks@gmail.com">
