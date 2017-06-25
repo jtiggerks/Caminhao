@@ -5,7 +5,7 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.interflywebsolutions.iplayer"
+        id        = "com.caminhaobrasilrb.com.br"
         version   = "1.0">
 
     <name>Caminhões Brasil</name>
@@ -76,9 +76,7 @@
 	 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
-    <!--
-        <gap:plugin name="com.phonegap.plugins.barcodescanner" />
-    -->
+   
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
