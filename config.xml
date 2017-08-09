@@ -71,10 +71,10 @@
     <plugin name="cordova-plugin-device" value="org.apache.cordova.Device" />
     <plugin name="cordova-plugin-device-orientation" value="org.apache.cordova.device-orientation" />
 
-    
-    <gap:plugin name="org.apache.cordova.splashscreen"  source="npm" />
-	<gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
-	<gap:plugin name="org.apache.cordova.statusbar" source="npm"/>
+    <plugin name="cordova-plugin-splashscreen" value="org.apache.cordova.splashscreen" />
+    <plugin name="cordova-plugin-legacy-whitelist" value="cordova-plugin-whitelist" />
+    <plugin name="cordova-plugin-statusbar" value="org.apache.cordova.statusbar" />
+ 
 	 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
