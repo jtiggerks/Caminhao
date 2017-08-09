@@ -68,7 +68,8 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
-    <gap:plugin name="org.apache.cordova.device" source="npm" />
+    <plugin name="cordova-plugin-device" value="org.apache.cordova.Device" />
+    
     <gap:plugin name="org.apache.cordova.device-orientation"  source="npm" />
     <gap:plugin name="org.apache.cordova.splashscreen"  source="npm" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
